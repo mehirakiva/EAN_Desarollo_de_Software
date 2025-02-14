@@ -24,6 +24,11 @@ Este proyecto en Java tiene como objetivo [breve descripción del propósito del
 
 ## 🚀 **Cómo ejecutar el proyecto:**
 
+> ⚠️ **Advertencia:**
+> Asegúrate de tener instalada la versión correcta de Java (Java 17 o superior) antes de ejecutar el proyecto. 
+> Recordar que si deseas recrear los archivos deben quedar con el mismo nombre de las clases principales
+
+
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/mehirakiva/EAN_Trabajos.git
