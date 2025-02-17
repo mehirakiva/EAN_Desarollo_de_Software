@@ -2,7 +2,7 @@
 
 ## Descripción 📄
 
-Este proyecto en Java tiene como objetivo [breve descripción del propósito del proyecto]. A continuación se presentan los puntos clave que se han implementado:
+A continuación se presentan los puntos clave que se han implementado:
 
 ---
 
@@ -19,5 +19,3 @@ Este proyecto en Java tiene como objetivo [breve descripción del propósito del
 
 4. **🎨 Interfaz Gráfica de Usuario (GUI)**  
    Se desarrolló una interfaz gráfica utilizando cli para hacer que la experiencia del usuario sea más amigable y accesible.
-
----
