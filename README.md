@@ -21,5 +21,3 @@ Este proyecto en Java tiene como objetivo [breve descripción del propósito del
    Se desarrolló una interfaz gráfica utilizando cli para hacer que la experiencia del usuario sea más amigable y accesible.
 
 ---
-
-2. Extrae el Contenido de carpetas e elige cual usar recordar que cada carpeta tiene el proyecto interno con el word explicativo y demas.
